@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there, I'm Ishita 
 
-<!--
-**ishitaswarnkar1804/ishitaswarnkar1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner learning Python and problem solving, currently focusing on Data Structures and Algorithms using LeetCode.
 
-Here are some ideas to get you started:
+### What I am learning
+- Python programming fundamentals
+- String and Array problems (LeetCode)
+- Writing clean and readable code
+- Using GitHub to document my learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Solving 1 LeetCode problem daily
+- Maintaining a clean GitHub repository
+- Building strong fundamentals before moving to advanced topics
+
+### Tools
+- Python
+- GitHub
+- LeetCode
+
+### Goal
+Build a strong foundation for software and data roles and gradually work towards top tech companies.
