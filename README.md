@@ -18,7 +18,7 @@
 
 <sub>WELCOME TO MY LITTLE CORNER OF THE INTERNET</sub>
 
-# hi, i'm ishita.
+# Hi, i'm Ishita.
 
 <sub>data science · software · little ideas that turn into big rabbit holes</sub>
 
