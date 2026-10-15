@@ -1,25 +1,27 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090014,35:24104F,70:6D28D9,100:00E5FF&text=ISHITA%20SWARNKAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Software%20Development&descSize=17&descAlignY=58&animation=fadeIn&stroke=00E5FF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050510,25:160B36,55:5521A8,80:00D9FF,100:050510&text=ISHITA.SYS&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%2F%2F%20AI%20%2F%2F%20SOFTWARE&descSize=17&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=I+turn+random+ideas+into+real+projects.;Data+Science+student+at+VIT+Chennai.;Building+AI+systems%2C+apps+and+things+that+work.;Still+learning.+Still+building.+Still+curious." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Ishita+%F0%9F%91%8B;I+like+building+things+that+actually+work.;Data+Science+student+%40+VIT+Chennai.;From+messy+data+to+working+software.;Currently+turning+ideas+into+projects." alt="Animated introduction"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ishita-swarnkar-1804is">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-151515?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/STATUS-Always%20building-00E5FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6D28D9&label=CURIOUS+VISITORS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -27,147 +29,188 @@
 
 <div align="center">
 
-###  ✦ WELCOME TO MY LITTLE CORNER OF THE INTERNET ✦
-
-*I like figuring out how things work, building stuff from scratch, and making my ideas real.*
+> *Curious enough to start. Stubborn enough to figure it out.*
 
 </div>
 
 ---
 
-<img align="right" width="175" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+## `01 / THE PERSON BEHIND THE CODE`
 
-## `about_me.py`
+Hey, I'm Ishita! I'm studying Computer Science with a specialisation in Data Science at VIT Chennai.
 
-Hey, I'm Ishita! 👋
+I like working with data, exploring AI, and building applications from scratch. I enjoy the whole process, from getting an idea to making something that actually runs.
 
-I'm a Computer Science student specialising in Data Science at VIT Chennai. I enjoy working with data, exploring AI, and building applications that solve actual problems.
+I'm not going to pretend I know everything. I'm learning, experimenting, making mistakes, fixing them, and getting better with every project.
 
-Some days I'm training models. Some days I'm debugging an API for way too long. And some days I'm changing the entire design because the old one just doesn't look right.
+```python
+class Ishita:
 
-I'm still figuring things out, but I genuinely enjoy the process.
+    education = "CSE, Data Science @ VIT Chennai"
 
-- 🎓 Studying Computer Science and Data Science
-- 📊 Interested in data analysis, machine learning and statistics
-- 🧠 Exploring LLMs, RAG and multi agent systems
-- 🛠️ Building full stack projects and backend services
-- 🌱 Always learning something new
+    interests = [
+        "Data Science",
+        "Machine Learning",
+        "AI and RAG systems",
+        "Backend development",
+        "Building useful software"
+    ]
 
-<br clear="right"/>
-
----
-
-## `things_ive_built/`
+    current_goal = "Build better things and understand how they work"
+```
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/OmniBrain">
-<img src="https://img.shields.io/badge/01-OMNIBRAIN-8B5CF6?style=for-the-badge&logo=brain&logoColor=white"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/FedMed">
-<img src="https://img.shields.io/badge/02-FEDMED-06B6D4?style=for-the-badge&logo=heart&logoColor=white"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/GatherUp">
-<img src="https://img.shields.io/badge/03-GATHERUP-F472B6?style=for-the-badge&logo=users&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/BASED_ON-CURIOSITY-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/POWERED_BY-COFFEE-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODE-ALWAYS_LEARNING-FF4ECD?style=flat-square"/>
 
 </div>
+
+---
+
+## `02 / THINGS I'VE BUILT`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_01-8B5CF6?style=for-the-badge"/>
+
 <h3>🧠 OmniBrain</h3>
 
-**An AI system that knows which tool to use.**
+<sub>THE MULTI AGENT AI EXPERIMENT</sub>
 
-A multimodal RAG project where a supervisor routes tasks to specialised agents for search, vision and SQL.
+</div>
 
-What makes it interesting:
+What if one AI system could figure out which tool a question needs?
 
-- Agent based task routing
+OmniBrain explores that idea with a supervisor that routes tasks to specialised agents for search, vision and SQL.
+
+**What's inside**
+
+- Agent routing with LangGraph
 - Retrieval augmented generation
-- Vector search with Qdrant and FAISS
-- Image understanding with CLIP
-- Text to SQL workflows
+- Qdrant and FAISS vector search
+- CLIP for image related workflows
+- Text to SQL
 
 <br/>
 
-`Python` `LangGraph` `Qdrant` `FAISS` `CLIP`
+`Python` `LangGraph` `RAG` `Qdrant` `FAISS`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/OmniBrain">VIEW PROJECT ↗</a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_02-00D9FF?style=for-the-badge"/>
+
 <h3>🏥 FedMed</h3>
 
-**Training together without sharing raw data.**
+<sub>PRIVACY FOCUSED MACHINE LEARNING</sub>
 
-A privacy focused federated learning project exploring how healthcare clients can train models collaboratively.
+</div>
 
-What makes it interesting:
+Healthcare data is sensitive. FedMed explores how different clients can contribute to model training without sending all their raw data to one central location.
 
-- Multiple training clients
-- Central server aggregation
-- PyTorch and MONAI workflows
+**What's inside**
+
 - Federated learning with Flower
-- Privacy focused methods using TenSEAL
+- PyTorch and MONAI workflows
+- Client based model training
+- Server side aggregation
+- Privacy focused techniques with TenSEAL
 
 <br/>
 
 `PyTorch` `MONAI` `Flower` `TenSEAL`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/FedMed">VIEW PROJECT ↗</a>
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_03-FF4ECD?style=for-the-badge"/>
+
 <h3>🎉 GatherUp</h3>
 
-**Less chaos. Better plans.**
+<sub>LESS GROUP CHAOS. BETTER PLANS.</sub>
 
-A full stack group planning app built around events, tasks, polls, shared expenses and communication.
+</div>
+
+Planning things with a group can get messy pretty quickly. GatherUp brings events, tasks, polls, shared expenses and group communication into one application.
+
+**What's inside**
 
 - User authentication and group management
-- Event planning, polls and task tracking
+- Events, polls and task tracking
 - Expense splitting and notifications
-- REST APIs backed by FastAPI and MySQL
+- FastAPI backend with MySQL
+- SQLAlchemy and JWT authentication
 
-`HTML` `CSS` `JavaScript` `FastAPI` `SQLAlchemy` `MySQL` `JWT`
+<div align="center">
+
+`HTML` `CSS` `JavaScript` `FastAPI` `MySQL` `SQLAlchemy`
+
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/GatherUp">VIEW PROJECT ↗</a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-**These are ongoing learning projects. Have a look at the repositories for the actual implementation.**
-
-</div>
+<sub>Replace each project link with the actual repository URL if your repository uses a different name.</sub>
 
 ---
 
-## `my_toolbox/`
+## `03 / MY TOOLKIT`
 
 <div align="center">
 
-### Languages
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" alt="Languages"/>
 
-### Data and machine learning
+<br/><br/>
+
+**DATA SCIENCE AND MACHINE LEARNING**
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-### Backend and databases
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,git,github,linux,vscode&theme=dark" alt="Backend and developer tools"/>
+**BACKEND, DATABASES AND TOOLS**
 
-### AI and retrieval
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,git,github,linux,vscode&theme=dark" alt="Development tools"/>
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<br/><br/>
+
+**AI AND RETRIEVAL**
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge"/>
 
@@ -175,77 +218,84 @@ A full stack group planning app built around events, tasks, polls, shared expens
 
 ---
 
-## `experience.log`
+## `04 / EXPERIENCE`
 
-### Data Science Intern · Axlero Solutions
+### Data Science Intern @ Axlero Solutions
 
-**July 2026 to October 2026**
+`JUL 2026 → OCT 2026`
 
-I completed my Data Science internship at Axlero Solutions, where I got exposure to working in a professional environment.
+I completed my Data Science internship at Axlero Solutions and gained experience in a professional working environment.
 
-I'm adding the specific tools, work and outcomes from this experience as I organise my portfolio.
+I'm keeping this section focused on the work I actually did, rather than filling it with achievements that don't tell the full story.
 
 ---
 
-## `github.exe`
+## `05 / GITHUB IN MOTION`
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E9D5FF&icon_color=A78BFA&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050510&title_color=00D9FF&text_color=E9D5FF&icon_color=FF4ECD&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E9D5FF" alt="Most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050510&title_color=00D9FF&text_color=E9D5FF" alt="Most used languages"/>
 </a>
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=090014&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=090014&color=E9D5FF&line=8B5CF6&point=00E5FF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="Contribution activity"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050510&ring=00D9FF&fire=FF4ECD&currStreakLabel=00D9FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8FB5" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050510&color=E9D5FF&line=8B5CF6&point=00D9FF&area=true&hide_border=true&custom_title=THE%20BUILDING%20TIMELINE" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## `currently_loading...`
+## `06 / WHAT I'M WORKING TOWARDS`
 
-```python
-learning = [
-    "Getting better at statistics and machine learning",
-    "Writing cleaner Python and SQL",
-    "Building useful projects from scratch",
-    "Understanding algorithms instead of memorising them",
-    "Making my portfolio better one project at a time"
-]
-
-for lesson in learning:
-    keep_going(lesson)
+```text
+[ learning ]       Getting better at statistics and ML
+[ practising ]     Python, SQL and problem solving
+[ building ]       Projects that solve actual problems
+[ exploring ]      AI systems and backend development
+[ improving ]      Writing code that is easier to maintain
 ```
+
+---
+
+## `07 / THE CONTRIBUTION ARCADE`
 
 <div align="center">
 
-### A LITTLE MORE ABOUT ME
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
-I don't have everything figured out yet, and that's okay.
+<sub>The snake animation appears after you configure the GitHub Actions workflow.</sub>
 
-I'm here to learn, experiment, make mistakes, fix them, and build things I'm proud of.
+</div>
 
-<br/>
+---
 
-**If you've made it this far, have a look around. Maybe we'll build something cool someday.** ✨
+<div align="center">
+
+## THANKS FOR STOPPING BY ✦
+
+I'm still learning, still building, and always curious about what I can make next.
+
+If something here catches your eye, check out the projects or say hi.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/ishita-swarnkar-1804is">
-<img src="https://img.shields.io/badge/FIND%20ME%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,45:6D28D9,100:090014"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050510,30:160B36,65:5521A8,100:00D9FF"/>
+
+<sub>Made with curiosity, a lot of tabs, and the occasional debugging crisis.</sub>
 
 </div>
