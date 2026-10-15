@@ -1,178 +1,232 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="100%" alt="ISHITA.SYS — personal digital space"/>
+<img src="assets/pink-hero.gif" width="100%" alt="Animated pink Ishita profile banner"/>
 
+<br/>
 
 <a href="https://www.linkedin.com/in/ishita-swarnkar-1804is">
-  <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-c5ff00?style=for-the-badge&labelColor=101014&logo=linkedin&logoColor=c5ff00" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=35202F" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-8b5cf6?style=for-the-badge&labelColor=101014&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/MY%20CORNER%20OF%20GITHUB-F7A8C8?style=for-the-badge&logo=github&logoColor=35202F&labelColor=FFF0F6" alt="GitHub"/>
 </a>
 
+<br/><br/>
 
+<img src="assets/pink-divider.gif" width="100%" alt="Animated pink sparkle divider"/>
 
+<sub>WELCOME TO MY LITTLE CORNER OF THE INTERNET</sub>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20IN%20PROGRESS-101014?style=flat-square&labelColor=c5ff00&color=101014" alt="Status"/>
-<img src="https://img.shields.io/badge/CURRENTLY-CURIOUS-101014?style=flat-square&labelColor=8b5cf6&color=101014" alt="Curious"/>
+# hi, i'm ishita.
+
+<sub>data science · software · little ideas that turn into big rabbit holes</sub>
 
 </div>
 
-<div align="center">
+I'm Ishita. I like figuring out how things work, trying ideas that might fail, and turning the interesting ones into something real.
 
-NOT A RESUME. JUST A LITTLE CORNER OF THE INTERNET.
-</div>
+I'm into data, AI, and software, but I also love when things have personality. I want what I make to work well and feel like someone cared about the details.
 
-I’m Ishita. I like figuring out how things work, trying ideas that might fail, and turning the interesting ones into something real.
-I’m into data, AI, and software, but I also care about how things are presented. A project should work well, make sense, and feel like someone actually cared about the details.
-I’m still learning. That’s not a disclaimer. That’s the whole point.
+Still learning, still experimenting, still becoming.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-THE LOGIC
-I enjoy breaking complicated problems into smaller pieces until the solution starts making sense.
+### a little analytical
+
+I enjoy breaking complicated problems into smaller pieces until they start making sense.
+
 </td>
 <td width="50%" valign="top">
 
-THE DETAILS
-I care about the little things too: the interface, the flow, the names, and whether something feels finished.
+### a little creative
+
+I care about the details, the feeling, and making things look as good as they work.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-THE RABBIT HOLES
-One question can become an experiment, then a new idea, then an entire evening spent figuring it out.
+### always curious
+
+One question can turn into a whole evening of trying things and learning something unexpected.
+
 </td>
 <td width="50%" valign="top">
 
-THE PROCESS
-Learn something. Try it. Get it wrong. Understand why. Try again. Keep the parts worth keeping.
+### very much a work in progress
+
+I don't need to know everything yet. I just need to keep going.
+
 </td>
 </tr>
 </table>
 
 <div align="center">
+<img src="assets/pink-divider.gif" width="100%" alt="Animated pink sparkle divider"/>
+</div>
 
-<sub>01 / THE TOOL DRAWER</sub>
-THINGS I LIKE WORKING WITH
+<div align="center">
+
+<sub>01 / MY LITTLE TOOLBOX</sub>
+
+## things i like working with
+
 </div>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-LANGUAGES
-Python
-Java
-C++
-C
-JavaScript
+**languages**
+
+Python  
+Java  
+C++  
+C  
+JavaScript  
 SQL
+
 </td>
 <td width="33%" valign="top">
 
-DATA
-Pandas
-NumPy
-Scikit-learn
-Statistics
-Data analysis
+**data things**
+
+Pandas  
+NumPy  
+Scikit learn  
+Statistics  
+Data analysis  
 Visualisation
+
 </td>
 <td width="33%" valign="top">
 
-BUILDING
-FastAPI
-MySQL
-Git
-REST APIs
-HTML and CSS
+**building things**
+
+FastAPI  
+MySQL  
+Git  
+REST APIs  
+HTML and CSS  
 Backend development
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql,fastapi,git,github,linux&theme=dark" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql,fastapi,git,github&theme=light" alt="Programming and development tools"/>
 
+<br/><br/>
 
+<sub>also exploring / pytorch · langgraph · qdrant · faiss · retrieval systems</sub>
 
+</div>
 
-<sub>ALSO EXPLORING / PYTORCH · LANGGRAPH · QDRANT · FAISS · RETRIEVAL SYSTEMS</sub>
+<div align="center">
+<img src="assets/pink-divider.gif" width="100%" alt="Animated pink sparkle divider"/>
 </div>
 
 <div align="center">
 
-<sub>02 / THE NOW PAGE</sub>
-CURRENTLY IN PROGRESS
+<sub>02 / LITTLE THINGS I'M WORKING ON</sub>
+
+## growing one step at a time
+
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-GETTING STRONGER
+**getting stronger**
+
 Building better foundations in statistics, machine learning, Python, SQL, and problem solving.
+
 </td>
 <td width="50%" valign="top">
 
-EXPLORING
-Learning how AI systems work and how to turn ideas into useful, reliable software.
+**exploring**
+
+Learning how AI systems work and how to turn ideas into useful software.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-MAKING THINGS
-Trying ideas, learning new tools, and working through the messy middle between “what if?” and “it works.”
+**making things**
+
+Trying ideas, learning new tools, and working through the messy middle between an idea and a working result.
+
 </td>
 <td width="50%" valign="top">
 
-A SMALL RULE
+**my tiny rule**
+
 Understand it before pretending to know it. Ask questions. Keep going.
+
 </td>
 </tr>
 </table>
 
 <div align="center">
+<img src="assets/pink-divider.gif" width="100%" alt="Animated pink sparkle divider"/>
+</div>
 
-<sub>03 / THE GITHUB WINDOW</sub>
-A LITTLE PROOF OF LIFE
+<div align="center">
+
+<sub>03 / THE GITHUB CORNER</sub>
+
+## little signs of life
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN-ALL%20REPOSITORIES-c5ff00?style=for-the-badge&labelColor=101014&logo=github&logoColor=c5ff00" alt="Open repositories"/>
+<img src="https://img.shields.io/badge/TAKE%20A%20LOOK-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=35202F" alt="Explore repositories"/>
 </a>
 
-
-
+<br/><br/>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=overview">
-  <img src="https://img.shields.io/badge/VIEW-CONTRIBUTION%20ACTIVITY-8b5cf6?style=for-the-badge&labelColor=101014&logo=github&logoColor=white" alt="View activity"/>
+<img src="https://img.shields.io/badge/SEE%20MY%20ACTIVITY-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=35202F" alt="View activity"/>
 </a>
 
+<br/><br/>
 
+<sub>Real links to my GitHub, no mystery stats cards needed.</sub>
 
+</div>
 
-<sub>These links open your real GitHub pages. No third-party stats card required.</sub>
+<div align="center">
+<img src="assets/pink-divider.gif" width="100%" alt="Animated pink sparkle divider"/>
 </div>
 
 <div align="center">
 
-<sub>04 / END OF TRANSMISSION</sub>
-STILL BECOMING.
-I don't have everything figured out, and I don't think I need to.
-I'm here to learn, make things, change my mind, and get better at the work.
+<sub>04 / END OF MY LITTLE PAGE</sub>
+
+# soft colours. curious mind. big ideas.
+
+I'm still figuring things out, and that's part of the fun.
+
+I'm here to learn, make things, change my mind, and get better at what I do.
+
 If you're building something interesting, come say hi.
 
+<br/>
+
 <a href="https://www.linkedin.com/in/ishita-swarnkar-1804is">
-  <img src="https://img.shields.io/badge/FIND_ME_ON-LINKEDIN-c5ff00?style=for-the-badge&labelColor=101014&logo=linkedin&logoColor=c5ff00" alt="Find me on LinkedIn"/>
+<img src="https://img.shields.io/badge/come%20say%20hi-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=35202F" alt="Connect on LinkedIn"/>
 </a>
 
+<br/><br/>
 
+<img src="assets/pink-divider.gif" width="100%" alt="Animated pink sparkle divider"/>
 
+<sub>ISHITA / A LITTLE SPACE ON THE INTERNET / MADE WITH CARE</sub>
 
-<sub>ISHITA SWARNKAR / PERSONAL SPACE / STILL UNDER CONSTRUCTION</sub>
 </div>
