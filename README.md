@@ -1,190 +1,100 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:BCFF00,50:8B5CF6,100:00E5FF"/>
+<img src="assets/terminal.svg" width="100%" alt="Ishita personal terminal artwork"/>
 
 <br/>
 
-<sub>ISHITA SWARNKAR &nbsp; / &nbsp; PERSONAL DIGITAL SPACE &nbsp; / &nbsp; 2026</sub>
+<sub>COMPUTER SCIENCE / DATA SCIENCE / INTERNET PERSON</sub>
 
 <br/><br/>
 
-# ISHITA<span style="color:#BCFF00">.</span>
-
-### DATA SCIENCE · SOFTWARE · AI
-
-<sub>Building things. Breaking things. Figuring things out.</sub>
+[ GITHUB ](https://github.com/YOUR_GITHUB_USERNAME)
+&nbsp;&nbsp; / &nbsp;&nbsp;
+[ LINKEDIN ](https://www.linkedin.com/in/ishita-swarnkar-1804is)
 
 <br/>
-
-[ LinkedIn ↗ ](https://www.linkedin.com/in/ishita-swarnkar-1804is) &nbsp; / &nbsp; [ GitHub ↗ ](https://github.com/YOUR_GITHUB_USERNAME)
-
-<br/>
-
-<img src="https://img.shields.io/badge/BASED_IN-CHENNAI-0B0B0B?style=flat-square&labelColor=BCFF00&color=0B0B0B"/>
-<img src="https://img.shields.io/badge/STUDYING-COMPUTER_SCIENCE-0B0B0B?style=flat-square&labelColor=8B5CF6&color=0B0B0B"/>
-<img src="https://img.shields.io/badge/MODE-ALWAYS_LEARNING-0B0B0B?style=flat-square&labelColor=00E5FF&color=0B0B0B"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:BCFF00,50:8B5CF6,100:00E5FF"/>
 
 </div>
 
-<br/>
+---
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="65%" valign="top">
 
-## A LITTLE ABOUT ME
+### HELLO, INTERNET.
 
-Hey, I'm Ishita.
+I'm Ishita.
 
-I'm studying Computer Science with a specialisation in Data Science at VIT Chennai.
+I like figuring out how things work, getting curious about things I don't understand, and making things just because I want to see if I can.
 
-I like working with data, exploring AI, and building software from scratch. I'm drawn to problems where I have to think, experiment and figure things out instead of just following a tutorial.
+I spend a lot of time around code, data, and ideas that turn into bigger rabbit holes than I expected.
 
-I'm still learning, and that's exactly why I enjoy it.
+This is where I keep a little piece of that process.
 
 </td>
-<td width="42%" valign="top">
+<td width="35%" valign="top">
 
-## QUICK PROFILE
+```text
+CURRENT MODE
 
-**FIELD**
+thinking
+experimenting
+learning
+making things
 
-Data Science
-
-**ALSO INTO**
-
-AI and software development
-
-**CURRENT FOCUS**
-
-Getting better at the fundamentals and building useful things.
-
-**PERSONAL RULE**
-
-Understand it before pretending to know it.
+STATUS: IN PROGRESS
+```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
-<sub>01 / THE TOOLKIT</sub>
+<sub>THE INTERNET IS A PRETTY BIG PLACE.</sub>
 
-# WHAT I WORK WITH
+# I LIKE MAKING MY OWN CORNER OF IT.
 
 </div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**01**
-
-### Languages
-
-Python
-
-Java
-
-C++
-
-C
-
-JavaScript
-
-SQL
-
-</td>
-<td width="33%" valign="top">
-
-**02**
-
-### Data
-
-Pandas
-
-NumPy
-
-Scikit learn
-
-Statistics
-
-Data analysis
-
-Visualisation
-
-</td>
-<td width="33%" valign="top">
-
-**03**
-
-### Engineering
-
-FastAPI
-
-MySQL
-
-Git
-
-REST APIs
-
-HTML and CSS
-
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-
-**EXPLORING AI**
-
-PyTorch &nbsp; / &nbsp; LangGraph &nbsp; / &nbsp; Qdrant &nbsp; / &nbsp; FAISS &nbsp; / &nbsp; RAG
-
-</td>
-</tr>
-</table>
 
 ---
 
-<div align="center">
-
-<sub>02 / THE JOURNEY</sub>
-
-# IN PROGRESS
-
-</div>
+### A FEW THINGS ABOUT MY BRAIN
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Learning
+**01 / THE LOGIC**
 
-Getting stronger at statistics, machine learning, Python, SQL and problem solving.
-
-### Exploring
-
-Understanding how AI systems work and how to turn ideas into reliable applications.
+I enjoy breaking complicated things into smaller pieces until they start making sense.
 
 </td>
 <td width="50%" valign="top">
 
-### Experience
+**02 / THE CREATIVE SIDE**
 
-**Data Science Intern**
+I care about how things look and feel, not just whether they technically work.
 
-Axlero Solutions
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-July 2026 to October 2026
+**03 / THE RABBIT HOLES**
 
-Completed my internship and continuing to grow through practice and independent learning.
+One question can turn into three tabs, five experiments, and an entirely new thing to learn.
+
+</td>
+<td width="50%" valign="top">
+
+**04 / THE PROCESS**
+
+I'm okay with not knowing something yet. That's usually where the interesting part starts.
 
 </td>
 </tr>
@@ -194,21 +104,15 @@ Completed my internship and continuing to grow through practice and independent 
 
 <div align="center">
 
-<sub>03 / THE DIGITAL FOOTPRINT</sub>
-
-# MY GITHUB
-
-<br/>
-
-[ ![GitHub profile](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-BCFF00?style=for-the-badge&logo=github&logoColor=black) ](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
-
-<br/>
-
-[ ![Contributions](https://img.shields.io/badge/VIEW_MY_ACTIVITY-8B5CF6?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/YOUR_GITHUB_USERNAME?tab=overview)
+<sub>THE CURRENT TOOL DRAWER</sub>
 
 <br/><br/>
 
-<sub>Real work. Real progress. No made up numbers.</sub>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql,fastapi,git,github,linux&theme=dark" alt="Programming and development tools"/>
+
+<br/><br/>
+
+<sub>DATA / MACHINE LEARNING / SOFTWARE / AI</sub>
 
 </div>
 
@@ -216,26 +120,40 @@ Completed my internship and continuing to grow through practice and independent 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:BCFF00,50:8B5CF6,100:00E5FF"/>
+<sub>AN ACTUAL LOOK AT THE GITHUB SIDE OF THINGS</sub>
 
 <br/><br/>
 
-## GOOD THINGS TAKE ITERATION.
-
-I'm here to learn, make mistakes, improve, and build things I'm proud of.
-
-If you're working on something interesting, I'd love to connect.
-
-<br/>
-
-[ LET'S CONNECT ON LINKEDIN ↗ ](https://www.linkedin.com/in/ishita-swarnkar-1804is)
-
-<br/>
-
-<sub>ISHITA SWARNKAR &nbsp; / &nbsp; STILL FIGURING THINGS OUT</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C5FF00&text_color=E6EDF3&icon_color=C5FF00" width="100%" alt="GitHub statistics"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00E5FF,50:8B5CF6,100:BCFF00"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=C5FF00&text_color=E6EDF3" width="75%" alt="Language statistics"/>
+
+<br/><br/>
+
+[ EXPLORE THE REPOSITORIES ](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### NOTHING HERE IS FINISHED.
+
+And honestly, that's the point.
+
+I'm learning, trying things, changing my mind, and working out what I want to make next.
+
+If you found your way here, have a look around.
+
+<br/>
+
+[ FIND ME ON LINKEDIN ↗ ](https://www.linkedin.com/in/ishita-swarnkar-1804is)
+
+<br/>
+
+<sub>ISHITA / PERSONAL SPACE / STILL UNDER CONSTRUCTION</sub>
 
 </div>
